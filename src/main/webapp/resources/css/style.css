@@ -1,0 +1,17 @@
+/* 
+    Created on : 12-Oct-2017, 22:29:54
+    Author     : Ludowica
+*/
+
+.row.content {height: 1000px}
+.row{
+    margin-right: 0;
+}
+.sidenav {
+    background-color: #f1f1f1;
+    height: 100%;
+}
+@media screen and (max-width: auto) {
+    .row.content {height: auto;} 
+}
+
